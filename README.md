@@ -1,4 +1,4 @@
-# git-test
+# git_node_test
 
 Ejercicio de ejemplo aplicando node.js y comandos de git.
 
